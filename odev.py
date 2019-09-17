@@ -39,7 +39,7 @@ class veriAnalizi(object):
         p1=0
         x=0
     
-    def poisson(self,lambd,x):
+    def poisson(self,lambd,x):#bu degilim iki parametre alir
 #lambd, o olayın ortalama olarak ne kadar oldugudur
 #x ,o olayın olmasını istedigimiz sayıdır.
 #lambda ise o olayın x kadar olmasının olasılıgını verir.
